@@ -12,3 +12,5 @@
 ### window 환경
 - [jupiter notebook 파일 실행 오류](https://github.com/zeromq/pyzmq/issues/1981) 이슈
   - `pyzmq` version `25.1.2`로 변경
+- default -> window 용 `torch` 설치
+  - https://pytorch.org/get-started/locally/
